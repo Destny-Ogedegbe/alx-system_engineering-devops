@@ -1,2 +1,3 @@
 #!/bin/bash
 sudo find . -type d -exec chmod
+chmod -R a+x
